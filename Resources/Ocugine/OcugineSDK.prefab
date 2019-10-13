@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &903969032218159032
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 903969032218159038}
+  - component: {fileID: 903969032218159033}
+  m_Layer: 0
+  m_Name: OcugineSDK
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &903969032218159038
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 903969032218159032}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &903969032218159033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 903969032218159032}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 473d9aec15264d64881d771f6512e519, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  initialized: 0
+  application:
+    app_id: 0
+    app_key: 
+    app_name: 
+    app_desc: 
+    app_version: 
+  settings:
+    language: 
+    modules:
+      Auth: 1
+      Analytics: 1
+      GameServices: 1
+      Payments: 1
+      Notifications: 1
+      Marketing: 1
+      Ads: 1
+      Backend: 1
+      Reports: 1
+      Perfomance: 1
+      Back_Office: 1
+      Localization: 1
+      UI: 1
+  auth: {fileID: 0}
+  analytics: {fileID: 0}
+  game: {fileID: 0}
+  monetization: {fileID: 0}
+  notifications: {fileID: 0}
+  marketing: {fileID: 0}
+  ads: {fileID: 0}
+  backend: {fileID: 0}
+  reports: {fileID: 0}
+  perfomance: {fileID: 0}
+  office: {fileID: 0}
+  locale: {fileID: 0}
+  ui: {fileID: 0}
+  utils: {fileID: 0}
