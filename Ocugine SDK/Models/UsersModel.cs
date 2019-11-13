@@ -9,9 +9,9 @@ using UnityEngine;
 //  use all features of Ocugine Services
 //
 //  @name           Ocugine SDK
-//  @developer      CodeBits Interactive
+//  @developer      Ocugine Platform
 //  @version        0.4.1
-//  @build          412
+//  @build          413
 //  @url            https://ocugine.pro/
 //  @docs           https://docs.ocugine.pro/
 //  @license        MIT

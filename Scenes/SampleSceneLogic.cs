@@ -11,7 +11,7 @@ using UnityEngine.UI;
 //  use all features of Ocugine Services
 //
 //  @name           Ocugine SDK
-//  @developer      CodeBits Interactive
+//  @developer      Ocugine Platform
 //  @version        0.4.0a
 //  @build          401
 //  @url            https://ocugine.pro/
